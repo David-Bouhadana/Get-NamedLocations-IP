@@ -54,4 +54,6 @@ Script écrit par **David Bouhadana**.
 
 ## Licence
 
-Ce projet est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus de détails.
+Ce projet est sous licence **GNU GPL 3**. Vous êtes libre d'utiliser, de modifier et de distribuer ce code, tant que les modifications et les versions dérivées sont également sous licence GNU GPL 3. 
+Pour plus d'informations, veuillez consulter le texte complet de la licence [GNU GPL 3](https://www.gnu.org/licenses/gpl-3.0.fr.html).
+
