@@ -50,7 +50,7 @@ The generated CSV file will contain the following columns:
 
 Script written by **David Bouhadana**.
 
-- Blog: [Oghma Site](https://oghmasite.wordpress.com/)
+- Blog: [M365 journey](https://m365journey.blog/)
 
 ## License
 
