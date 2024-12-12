@@ -2,7 +2,7 @@
 \\\\\!!!!!/////=====================================================================\\\\\!!!!!/////
 Name:           M365 Get IP list from Entra Named Locations
 Description:    This script export all ip from Entra Named Locations to a csv file.
-website:        https://oghmasite.wordpress.com/
+website:        https://m365journey.blog/
 Script by:      David Bouhadana
 \\\\\!!!!!/////=====================================================================\\\\\!!!!!/////
 #>
